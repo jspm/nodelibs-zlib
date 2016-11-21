@@ -2,7 +2,6 @@
   "main": "./zlib.js",
   "name": "jspm-nodelibs-zlib",
   "version": "0.2.1",
-  "registry": "github",
   "map": {
     "./zlib.js": {
       "node": "@node/zlib",
